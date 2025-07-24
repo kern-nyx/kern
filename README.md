@@ -6,7 +6,6 @@
 ## 🩸 About me
 - 🧠 19 y.o. backend & devops enthusiast  
 - 🕯 LaVeyan Satanist & proud half-Jew  
-- 🏴 Inspired by Gilfoyle, Cartman, Trump & Playboi Carti  
 - 📚 Philosophy, code, chaos  
 - 🔥 Dreaming to launch my own startups
 
@@ -21,7 +20,7 @@
 ---
 
 ## 🧰 Stack & Interests
-- Python, Go, JS
+- Python, JS
 - Docker, Kubernetes, CI/CD
 - Cloud, APIs, Linux
 - Reading, building, breaking
